@@ -1,0 +1,15 @@
+C:\Users\krist\source\repos\Soubory1\bin\Debug\net6.0\Soubory1.exe
+C:\Users\krist\source\repos\Soubory1\bin\Debug\net6.0\Soubory1.deps.json
+C:\Users\krist\source\repos\Soubory1\bin\Debug\net6.0\Soubory1.runtimeconfig.json
+C:\Users\krist\source\repos\Soubory1\bin\Debug\net6.0\Soubory1.dll
+C:\Users\krist\source\repos\Soubory1\bin\Debug\net6.0\ref\Soubory1.dll
+C:\Users\krist\source\repos\Soubory1\bin\Debug\net6.0\Soubory1.pdb
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\Soubory1.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\Soubory1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\Soubory1.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\Soubory1.AssemblyInfo.cs
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\Soubory1.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\Soubory1.dll
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\ref\Soubory1.dll
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\Soubory1.pdb
+C:\Users\krist\source\repos\Soubory1\obj\Debug\net6.0\Soubory1.genruntimeconfig.cache
