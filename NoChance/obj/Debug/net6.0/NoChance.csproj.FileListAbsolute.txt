@@ -1,0 +1,15 @@
+C:\Users\krist\source\repos\NoChance\bin\Debug\net6.0\NoChance.exe
+C:\Users\krist\source\repos\NoChance\bin\Debug\net6.0\NoChance.deps.json
+C:\Users\krist\source\repos\NoChance\bin\Debug\net6.0\NoChance.runtimeconfig.json
+C:\Users\krist\source\repos\NoChance\bin\Debug\net6.0\NoChance.dll
+C:\Users\krist\source\repos\NoChance\bin\Debug\net6.0\ref\NoChance.dll
+C:\Users\krist\source\repos\NoChance\bin\Debug\net6.0\NoChance.pdb
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\NoChance.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\NoChance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\NoChance.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\NoChance.AssemblyInfo.cs
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\NoChance.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\NoChance.dll
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\ref\NoChance.dll
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\NoChance.pdb
+C:\Users\krist\source\repos\NoChance\obj\Debug\net6.0\NoChance.genruntimeconfig.cache

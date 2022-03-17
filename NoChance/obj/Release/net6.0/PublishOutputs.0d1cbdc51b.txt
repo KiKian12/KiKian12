@@ -1,0 +1,5 @@
+E:\NoChance.exe
+E:\NoChance.dll
+E:\NoChance.deps.json
+E:\NoChance.runtimeconfig.json
+E:\NoChance.pdb
