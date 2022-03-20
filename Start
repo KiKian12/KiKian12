@@ -1,0 +1,43 @@
+using System;
+using System.Diagnostics;
+using System.Threading;
+
+namespace Start
+{
+    internal class Program
+    {
+        static public string password = "notAlone";
+        static void Main(string[] args)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\r\t\t\t░██╗░░░░░░░██╗███████╗██╗░░░░░░█████╗░░█████╗░███╗░░░███╗███████╗██╗");
+            Console.WriteLine("\r\t\t\t░██║░░██╗░░██║██╔════╝██║░░░░░██╔══██╗██╔══██╗████╗░████║██╔════╝██║");
+            Console.WriteLine("\r\t\t\t░╚██╗████╗██╔╝█████╗░░██║░░░░░██║░░╚═╝██║░░██║██╔████╔██║█████╗░░██║");
+            Console.WriteLine("\r\t\t\t░░████╔═████║░██╔══╝░░██║░░░░░██║░░██╗██║░░██║██║╚██╔╝██║██╔══╝░░╚═╝");
+            Console.WriteLine("\r\t\t\t░░╚██╔╝░╚██╔╝░███████╗███████╗╚█████╔╝╚█████╔╝██║░╚═╝░██║███████╗██╗");
+            Console.WriteLine("\r\t\t\t░░░╚═╝░░░╚═╝░░╚══════╝╚══════╝░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝╚═╝");
+            Console.WriteLine("------------------------------------------------------------------------------------------------------------------------");
+            Console.WriteLine("");
+            Console.Write("\r\tEnter password: ");
+            string userPassword = Console.ReadLine();
+            if(userPassword.Equals(password))
+            {
+                Console.WriteLine("");
+                Console.WriteLine("\r\tPassword Accepted...");
+                Console.WriteLine("");
+                Console.Write("\r\tEnter command: ");
+                string command = Console.ReadLine();
+                Process.Start(command);
+            }
+            else
+            {
+                Console.WriteLine("");
+                Console.WriteLine("\r\tPassword Incorrect...");
+                Console.WriteLine("");
+                Console.WriteLine("\r\tClosing the application...");
+                Thread.Sleep(2000);
+                System.Environment.Exit(0);
+            }
+        }
+    }
+}
